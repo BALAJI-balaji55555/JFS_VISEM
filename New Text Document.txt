@@ -1,5 +1,16 @@
 1. git init
-2. git add.
+2. git add .
 3. git commit -m "git commands"
 4. git remote add origin <url>
 5. git push origin main
+6. git remote add origin <url>
+7. git branch
+8. git push origin main
+----------------- https://github.com/BALAJI-balaji55555/JFS_VISEM ----------------
+
+if you are add any files oor change exixting files in current folder need to follow these steps
+
+1. git status
+2. git add .
+3. git commit -m "changes in command text"
+4. git push origin main
